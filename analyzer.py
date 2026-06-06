@@ -62,7 +62,6 @@ with open(file_path, "r") as file:
             else:
                 continue 
 
-
         if filter_level is not None and level != filter_level:
             continue 
             
