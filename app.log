@@ -1,0 +1,4 @@
+2024-01-15 10:03:22 ERROR Database timeout
+2024-01-15 10:04:01 INFO Server started
+{"timestamp": "2024-01-15 10:05:00", "level": "WARNING", "message": "High memory usage"}
+2024-01-15 10:07:44 ERROR Auth failed
